@@ -1,0 +1,158 @@
+
+Extra Credit: Company Stack Research
+
+   1. Identify 3 software or technology companies the interest you.
+
+   2. Conduct research to figure out some or all of the elements of each company’s technology stack. Check job openings/job descriptions, engineering blogs, and anything else that may have information about what the company uses to write/build it’s software products.
+
+   3. Record your findings in a google doc. If you can find information about why the company chose that stack, include that as well.
+
+   4. Save your files and push them to GitHub with your code.
+
+
+Question 1 answer 
+      
+      # Google
+      # Airbnb
+      # Netflix
+
+Question 2 answer
+
+Company 1: Google
+
+Description:
+
+Google is a multinational technology company specializing in Internet-related services and products. It is best known for its search engine, online advertising technologies, cloud computing, software, and hardware.
+
+Technology Stack:
+
+    Programming Languages: 
+       - C++, 
+       - Java, 
+       - Python, and 
+       - Go across various projects and products.
+
+    Infrastructure: 
+       - Google File System (GFS), 
+       - Bigtable, 
+       - MapReduce, 
+       - Spanner 
+
+    Frameworks and Tools: 
+       - TensorFlow for machine learning, 
+       - Kubernetes for container orchestration, 
+       - AngularJS and Polymer for frontend development, 
+       - Apache Beam for data processing.
+
+    Cloud Services:
+
+     - Google Cloud Platform (GCP) provides a range of services including computing, storage, databases, machine learning, and analytics.
+
+    Development Practices: 
+
+     - Google follows agile development methodologies and emphasizes automated testing, continuous integration, and continuous deployment (CI/CD). 
+
+# Google engineering blogs
+  
+   - Google AI Blog 
+   - Google Developers Blog 
+   - Google Cloud Blog This 
+   - Google Open Source Blog 
+   - Google Security Blog
+
+Reasoning:
+
+Google has developed its technology stack based on the need for scalability, reliability, and performance across its vast array of products and services. 
+
+The choice of languages and frameworks often revolves around efficiency, developer productivity, and community support. 
+Additionally, Google's in-house infrastructure technologies are tailored to handle massive data processing and storage requirements efficiently.
+
+
+Company 2: Airbnb
+
+Description:
+Airbnb is an online marketplace for lodging, primarily homestays for vacation rentals and tourism activities.
+
+Technology Stack:
+
+    Programming Languages:
+     - JavaScript for both frontend and backend development.
+     - Node.js for server-side logic.
+
+    Frameworks and Libraries:
+     - Airbnb uses React.js for building its frontend user interfaces and 
+     - Redux for state management. 
+     - For styling, they use CSS-in-JS solutions like styled-components.
+
+    Data Storage: 
+       - PostgreSQL for relational databases, 
+       - Redis for caching, 
+       - and Elasticsearch for search functionalities.
+
+    Infrastructure: 
+      - Airbnb utilizes Amazon Web Services (AWS) for its cloud infrastructure needs including compute, storage, and networking services.
+
+    Development Tools: 
+      - Git for version control, 
+      - Jenkins for continuous integration, 
+      - and Docker for containerization.
+
+
+Reasoning:
+
+Airbnb's technology stack emphasizes modern web development frameworks and tools to build scalable and responsive web applications.
+
+The choice of JavaScript, Node.js, and React.js allows for a unified development experience across frontend and backend teams, enabling faster iteration and feature development.
+
+The use of AWS provides flexibility and scalability to handle the dynamic demands of Airbnb's platform.
+
+Company 3: Netflix
+
+Description:
+Netflix is a global provider of streaming movies and TV series, as well as producing its own content.
+
+Technology Stack:
+
+    Programming Languages:
+     - Java for backend services and 
+     - JavaScript for frontend development.
+
+    Frameworks and Libraries: 
+      - Spring Boot for backend microservices, 
+      - React.js for frontend interfaces, 
+      - and Hystrix for fault tolerance.
+
+    Data Processing: 
+       - Apache Kafka for real-time event processing, 
+       - Apache Flink for stream processing, 
+       - and Apache Cassandra for distributed databases.
+
+    Cloud Infrastructure: 
+       - Netflix operates its services on Amazon Web Services (AWS) and utilizes various AWS services including EC2 for compute, S3 for storage, and CloudFront for content delivery.
+
+    Machine Learning: 
+      - Netflix employs machine learning algorithms for content recommendation and personalization.
+
+    # Netflix engineering blogs
+
+        - Netflix TechBlog 
+        - Technical Deep Dives
+        - Best Practices and Lessons Learned
+        - Open Source Contributions
+        - Community Engagement
+
+
+Reasoning:
+
+Netflix's technology stack is designed to handle massive amounts of streaming data while ensuring high availability and reliability. 
+
+The use of Java and Spring Boot allows for building robust and scalable backend services, while JavaScript and React.js enable the development of interactive and responsive user interfaces.
+
+Leveraging AWS services provides Netflix with the flexibility and scalability needed to support its global user base and streaming infrastructure.
+
+
+# Question 3 Answer
+
+This document outlines the technology stacks of three prominent technology companies—Google, Airbnb, and Netflix—highlighting their key programming languages, frameworks, infrastructure, and development practices. 
+
+These choices reflect the companies' needs for scalability, performance, reliability, and developer productivity in building and maintaining their software products and platforms.
